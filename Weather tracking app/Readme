@@ -1,0 +1,17 @@
+Description:
+This app lets you check real-time weather for any city using the OpenWeatherMap API. You can also log daily weather entries and track them over time in a local file.
+
+Features:
+
+Enter city name to get current temperature and weather conditions
+
+Uses OpenWeatherMap API to fetch live data
+
+Allows you to write daily weather notes (like a journal)
+
+Stores all entries in a local file (weather_log.txt)
+
+Simple GUI built with Tkinter
+
+Note: 
+    You need to have an API key to run the code which you can get from https://openweathermap.org/api

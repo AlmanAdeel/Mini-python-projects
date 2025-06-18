@@ -1,0 +1,15 @@
+Description:
+This is a simple Pomodoro-style study timer app built with Python and Tkinter. It helps you stay focused by using 25-minute sessions and gives a summary of your total study time.
+
+Features:
+
+Start/stop 25-minute study sessions
+
+Enter the task name for each session
+
+Automatically logs session data (task, date, time)
+
+View total hours studied from saved logs
+
+Minimal GUI for ease of use
+

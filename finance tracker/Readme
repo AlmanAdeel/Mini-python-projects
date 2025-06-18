@@ -1,0 +1,14 @@
+Description:
+A simple command-line Python app to track your income, expenses, and remaining balance. Saves all data in a local file.
+
+Features:
+
+Add income and expenses
+
+View transaction history
+
+Categorize transactions
+
+Automatically updates balance
+
+Data saved in data.csv
